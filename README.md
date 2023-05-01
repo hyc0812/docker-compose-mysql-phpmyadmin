@@ -37,7 +37,7 @@ networks:
   mysql-phpmyadmin:
 
 volumes:
-  db_dat
+  db_data:
 
 ```
   
